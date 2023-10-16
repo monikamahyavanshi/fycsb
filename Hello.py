@@ -1,2 +1,2 @@
 print("MONIKA")
-print(welcome*)
+print("happi happi")
