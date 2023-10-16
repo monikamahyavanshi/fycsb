@@ -1,1 +1,2 @@
-print('MONIKA")
+print("MONIKA")
+print(welcome*)
